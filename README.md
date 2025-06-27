@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul Boulos
-- 👀 I’m interested in data science, project management, software and web development
+- 👀 I’m interested in devops, ai, analytics and web development
 - 🌱 I’m using Java, JavaScript, Python, C++, CMake, and R 
 - 💞 Mainly work in OOP, with some Functional experience
 - 📫 Reach me by email
